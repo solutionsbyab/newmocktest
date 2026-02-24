@@ -155,7 +155,7 @@ window.openEmail = openEmail;
 
 // Typewriter effect: restart when the hero section scrolls into view
 (function () {
-  const text = "Operational Systems. Built for Scale.";
+  const text = "Your Business Is Leaking Time. We Plug It.";
   const el = document.getElementById("typewriter");
   let i = 0;
   const speed = 50;
@@ -204,3 +204,4 @@ window.openEmail = openEmail;
     }
   }
 })();
+
